@@ -59,3 +59,4 @@ iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.p
     choco feature disable --name showDownloadProgress
 
 choco install googlechrome
+choco install vim
